@@ -1,5 +1,3 @@
-__author__ = 'sherrychen'
-
 import serial
 
 from time import sleep

@@ -1,5 +1,3 @@
-__author__ = 'sherrychen'
-
 import serial
 import pygame
 from pygame.locals import *
