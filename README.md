@@ -6,7 +6,9 @@ A self-driving 1/24 model car.
 - Control: Serial communication between computer and Arduino, which uses digital signal for the remote control
 
 # Gallery
+- Arduino Remote Control & Original Car
 ![Arduino Remote Control & Original Car](images/Arduino_RC_and_original_car.JPG?raw=true "Arduino Remote Control & Original Car")
+- Final car mounted with Raspberry Pi, PiCamera, ultrasonic sensor, and battery
 ![Final Car](images/final_car.JPG?raw=true "Final car mounted with Raspberry Pi, PiCamera, ultrasonic sensor, and battery")
 
 # Reference
